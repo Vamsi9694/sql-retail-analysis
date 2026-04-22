@@ -1,53 +1,39 @@
-# sql-retail-analysis
-Retail Sales &amp; Profitability Analysis using SQL and Python
-
-# 📊 Retail Sales & Profitability Analysis using SQL
-
-Analyzed retail sales data using SQL and Python to uncover key business insights related to sales performance, profitability, and customer behavior.
+# 📊 Retail Sales Analysis using SQL
 
 ## 🎯 Objective
-To analyze sales data and identify trends, profit drivers, and areas of improvement using SQL queries.
+Analyze retail sales data to uncover trends, identify top-performing regions, and generate business insights using SQL.
 
-## 🛠 Tools Used
-- SQL (SQLite)
-- Python (Pandas)
-- Google Colab
+---
 
-## 📊 Analysis Performed
-- Sales by Region
-- Profit Analysis by Region
-- Loss-making Sub-Categories
-- Discount Impact on Profit
-- Top Customers Analysis
+## 📁 Dataset
+- Superstore dataset
+- Contains sales, customer, region, and product information
+
+---
+
+## 🛠️ Tools Used
+- SQL (SQLite / MySQL)
+- Google Colab (for execution)
+- Excel (for initial data handling)
+
+---
+
+## 📊 Key Analysis Performed
+- Total sales by region
+- Sales by customer segment
+- Top customers by revenue
+- Profit vs Sales analysis
+- Monthly sales trends
+
+---
 
 ## 🔍 Key Insights
-- Central region generated the highest sales
-- Profitability varied across regions
-- Some sub-categories were loss-making
-- Higher discounts negatively impacted profit margins
-- Revenue was concentrated among top customers
+- Central region generates the highest sales
+- Consumer segment drives most revenue
+- Some high-sales transactions are unprofitable
+- Sales show seasonal trends
 
-## 📁 Files
-- SQL Queries (.sql)
-- Colab Notebook (.ipynb)
-- Screenshots of outputs
+---
 
-## 💡 Business Value
-This analysis helps businesses identify profitable areas, reduce losses, and optimize pricing strategies.
-
-## 📸 Screenshots
-(Add images below 👇)
-
-## 📸 Screenshots
-
-### Sales by Region
-![Sales](sales_by_region.png)
-
-### Profit Analysis
-![Profit](profit_analysis.png)
-
-### Discount Impact
-![Discount](discount_analysis.png)
-
-### Top Customers
-![Customers](top_customers.png)
+## 📌 Conclusion
+This project demonstrates how SQL can be used to extract meaningful business insights from raw data and support decision-making.
