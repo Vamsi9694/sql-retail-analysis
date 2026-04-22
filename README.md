@@ -37,3 +37,17 @@ This analysis helps businesses identify profitable areas, reduce losses, and opt
 
 ## 📸 Screenshots
 (Add images below 👇)
+
+## 📸 Screenshots
+
+### Sales by Region
+![Sales](sales_by_region.png)
+
+### Profit Analysis
+![Profit](profit_analysis.png)
+
+### Discount Impact
+![Discount](discount_analysis.png)
+
+### Top Customers
+![Customers](top_customers.png)
